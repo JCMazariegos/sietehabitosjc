@@ -7,6 +7,11 @@ body {
     background: url(C:/Users/PC/Downloads/liderazgo.svg);
 }
 
+h1 {
+    text-align: center;
+    color: orange;
+}
+
 .contenedor {
     width: 90%;
     max-width: 1200 px;
